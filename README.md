@@ -2,6 +2,8 @@
 
 Este repositório contém um projeto de autenticação simples que inclui funcionalidades de cadastro (SignUp) e login (SignIn). É ideal para quem está aprendendo sobre autenticação básica em aplicações web e serve como um ponto de partida para implementação de sistemas de login em projetos maiores.
 
+![Print sistem](https://github.com/fwzin/SignIn-and-SignUp/blob/main/Image.png)
+
 
 
 ## 📋 Índice
